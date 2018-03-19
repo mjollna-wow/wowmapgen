@@ -1,0 +1,5 @@
+tileset\Elwynn\ElwynnCobbleStoneBase.blp
+tileset\Elwynn\ElwynnCobbleStoneBase.blp
+tileset\Elwynn\ElwynnCobbleStoneBase.blp
+tileset\Elwynn\ElwynnCobbleStoneBase.blp
+big_alpha = False

@@ -1,0 +1,2 @@
+world/wmo/kalimdor/buildings/classicalelfruins/classicalelfruin01.wmo
+world\expansion06\doodads\aszuna\7az_sagebush_b01.m2
