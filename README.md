@@ -1,3 +1,5 @@
+This repo has been migrated from Bitbucket and converted from Mercurial to git.
+
 # Introduction to WowMapGen
 
 This Python 2.x script is an attempt to generate 4.x Wow ADT. It takes a bunch of parameters to configure terrain, textures, vertex painting and lighting, and some objects placement.
